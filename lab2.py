@@ -41,5 +41,5 @@ print('Hello, world. This is my first python string.'.split('.'))
 
 #3.9
 
-message = "Cassidy's id is 123"
-print(message)
+# message = "Cassidy's id is 123"
+# print(message)
